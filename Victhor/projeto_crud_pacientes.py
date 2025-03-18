@@ -171,7 +171,7 @@ splash_screen()
 root.deiconify()
 
 root.title("Cadastro de Pacientes")
-root.geometry("400x600")
+root.geometry("9000x9000")
 root.config(bg="white")
 
 # Adicionando os novos campos
